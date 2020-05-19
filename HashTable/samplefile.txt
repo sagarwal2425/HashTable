@@ -1,0 +1,18 @@
+14 11
+10 alex
+10 tom
+10 jerry
+10 shubham
+10 ayushi
+15 ready-to-print
+13
+12 alex
+12 tom
+12 jerry
+12 shubham
+12 sex
+12 ayushi
+11 tom
+11 alex
+11 ayushi
+13
