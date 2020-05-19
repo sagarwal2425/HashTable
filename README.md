@@ -7,7 +7,7 @@ Hence in order to avoid collisions in hashtable we use a process called collisio
 
 a) Linear Probing: In linear probing, we linearly probe for next slot.
 
-b) Quadratic Probing: We look for i2‘th slot in i’th iteration.
+b) Quadratic Probing: We look for i^2‘th slot in i’th iteration.
 
 This implementation is done using Linear Probing.
 
